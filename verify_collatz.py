@@ -4,7 +4,7 @@ Collatz Geometric Analysis - Computational Verification Tool
 This script computes the Collatz parallelogram metrics for various N values
 and verifies the geometric properties described in the research.
 
-Author: Khan Sk Sohail
+Author: Sahil Khan
 Email: ksksohail07@gmail.com
 """
 
